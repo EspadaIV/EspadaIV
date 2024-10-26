@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EspadaIV or EIV
 - 👀 I’m interested in ... a lot of things. I like to write, read, draw, and code.
-- 🌱 I’m currently learning ... Ruby, Kotlin, Javascript, React, Node.js, and Flutter.
+- 🌱 I’m currently learning ... Ruby and Ruby on Rails, and Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
